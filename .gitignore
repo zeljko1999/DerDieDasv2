@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.DS_Store
+
+# ulazne slike za npm run images (izlaz ide u public/images)
+raw-images
